@@ -1,0 +1,16 @@
+.martini {
+  height: 276px;
+  width: auto;
+  margin-top: 40px;
+  background-size: contain;
+}
+
+.google {
+  font-size: 1.1rem;
+  border: solid black 1px;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: aquamarine;
+  width: 200px;
+  margin-top: 70px;
+}
