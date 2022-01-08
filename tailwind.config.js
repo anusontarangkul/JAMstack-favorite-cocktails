@@ -7,6 +7,7 @@ module.exports = {
     fontFamily: {
       'caveat': ['Caveat', 'sans-serif']
     },
+
     // colors: {
     //   'cyan': '#07DAC0',
     //   'ebony': "#171810",

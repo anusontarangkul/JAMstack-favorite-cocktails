@@ -14,3 +14,15 @@
   width: 200px;
   margin-top: 70px;
 }
+
+@media (min-width: 768px) {
+  .martini {
+    height: 25rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .martini {
+    height: 35rem;
+  }
+}
